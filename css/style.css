@@ -1,0 +1,192 @@
+.nav{
+    background-color: black;
+    position: relative;
+}
+
+.logo{
+    /* position:absolute; */
+    /* left:1rem; */
+    top: 1.5rem;
+
+}
+
+.nav-elem{
+    color: white;
+    position: absolute;
+    left: 10rem;
+    top: 1.6rem;
+}
+
+.abt-link{
+    left: 18rem;
+}
+
+.cnt-link{
+    left: 26rem;
+}
+
+.pht{
+    height: 20rem;
+}
+
+.banner{
+    background-color: #FFE5B4;
+    position: relative;
+    height: 41rem;
+}
+.big-text{
+    position: absolute;
+    left: 3rem;
+    top: 11rem;
+    font-size: 4rem;
+    max-width: 50%;
+}
+
+.imag{
+    /* background-color: aqua; */
+    position: absolute;
+    left: 50%;
+    top: 10rem;
+    width: 50%;
+}
+
+.ques{
+    position: relative;
+    top: 26rem;
+    left: 3rem;
+    font-size: 2rem;
+    width: 50%;
+    /* background-color: aquamarine; */
+}
+
+.btn{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    height: 4rem;
+    width: 10rem;
+    border-radius: 10px;
+    font-size: large;
+}
+
+.one{
+    position: absolute;
+    top:4rem;
+    left: 4rem;
+}
+
+.two{
+    position: absolute;
+    top:4rem;
+    left: 17rem;
+}
+
+.three{
+    position: absolute;
+    top:4rem;
+    left: 30rem;
+}
+
+.four{
+    position: absolute;
+    top:9rem;
+    left: 4rem;
+}
+
+.five{
+    position: absolute;
+    top:9rem;
+    left: 17rem;
+
+}
+
+.six{
+    position: absolute;
+    top:9rem;
+    left: 30rem;
+
+}
+
+#science, #novels, #finance, #computer-science, #history, #mathematics{
+    position: relative;
+    height: 30rem;
+    font-size: 3rem;
+}
+
+.img1{
+    position: absolute;
+    left: 15rem;
+    height: 15rem;
+}
+.img2{
+    position: absolute;
+    left: 42rem;
+    height: 15rem;
+}
+.img3{
+    position: absolute;
+    left: 70rem;
+    height: 15rem;
+}
+
+
+#novel{
+    position: relative;
+    height: 30rem;
+}
+
+.bookname{
+    position: absolute;
+    font-size: 1rem;
+}
+
+.first{
+    top: 21rem;
+    left: 13rem;
+}
+.second{
+    top: 21rem;
+    left: 40rem;
+}
+.third{
+    top: 21rem;
+    left: 68rem;
+}
+
+.for-more-books{
+    position: absolute;
+    top: 24rem;
+    word-wrap: break-word;
+    right:3rem;
+}
+
+.arrow {
+border: solid white;
+border-width: 0 3px 3px 0;
+display: inline-block;
+padding: 3px;
+}
+
+.right {
+transform: rotate(-45deg);
+-webkit-transform: rotate(-45deg);
+}
+
+.buff{
+    background-color: #FFE5B4;
+    height: 1rem;
+}
+
+#footer{
+    text-align: center;
+    background-color: #FFE5B4;
+    height: 10rem;
+    position: relative;
+}
+
+.last-txt{
+    font-size: 2rem;
+}
+.just-last{
+    font-size: 1.3rem;
+}
