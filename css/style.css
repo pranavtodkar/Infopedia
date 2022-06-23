@@ -3,7 +3,9 @@ body{
 }
 .nav{
     background-color: black;
-    position: relative;
+    position: sticky;
+    top: 0;
+    z-index: 1;
 }
 
 .logo{
@@ -212,8 +214,4 @@ transform: rotate(-45deg);
 
 .by{
     font-style: italic;
-}
-
-.text-small{
-    font-size: small;
 }
