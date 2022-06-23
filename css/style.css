@@ -1,3 +1,6 @@
+body{
+    font-family: Helvetica, Arial, Sans-Serif;
+}
 .nav{
     background-color: black;
     position: relative;
@@ -7,14 +10,18 @@
     /* position:absolute; */
     /* left:1rem; */
     top: 1.5rem;
-
 }
 
 .nav-elem{
     color: white;
     position: absolute;
+    text-decoration: none;
     left: 10rem;
     top: 1.6rem;
+}
+
+.nav-elem:hover{
+    color: blue;
 }
 
 .abt-link{
@@ -23,6 +30,14 @@
 
 .cnt-link{
     left: 26rem;
+}
+
+.nf-link{
+    left: 35rem;
+}
+
+.ra-link{
+    left: 45rem;
 }
 
 .pht{
@@ -39,7 +54,7 @@
     left: 3rem;
     top: 11rem;
     font-size: 4rem;
-    max-width: 50%;
+    max-width: 47%;
 }
 
 .imag{
@@ -67,6 +82,12 @@
     width: 10rem;
     border-radius: 10px;
     font-size: large;
+    position: relative;
+}
+.btn:hover{
+    background-color: lightblue;
+    color: black;
+
 }
 
 .one{
@@ -114,18 +135,15 @@
 }
 
 .img1{
-    position: absolute;
-    left: 15rem;
+   
     height: 15rem;
 }
 .img2{
-    position: absolute;
-    left: 42rem;
+    
     height: 15rem;
 }
 .img3{
-    position: absolute;
-    left: 70rem;
+    
     height: 15rem;
 }
 
@@ -135,27 +153,18 @@
     height: 30rem;
 }
 
-.bookname{
-    position: absolute;
-    font-size: 1rem;
+.table{
+    width:100%;
+    text-align: center;
 }
 
-.first{
-    top: 21rem;
-    left: 13rem;
-}
-.second{
-    top: 21rem;
-    left: 40rem;
-}
-.third{
-    top: 21rem;
-    left: 68rem;
+.bookname, .rating{
+    font-size: 1rem;
 }
 
 .for-more-books{
     position: absolute;
-    top: 24rem;
+    top: 25rem;
     word-wrap: break-word;
     right:3rem;
 }
@@ -180,13 +189,31 @@ transform: rotate(-45deg);
 #footer{
     text-align: center;
     background-color: #FFE5B4;
-    height: 10rem;
+    height: 17rem;
     position: relative;
 }
 
 .last-txt{
-    font-size: 2rem;
+    position: relative;
+    top: 3rem;
+    font-size: 1.3rem;
 }
 .just-last{
-    font-size: 1.3rem;
+    position: relative;
+    top: 3rem;
+    font-size: 1rem;
+}
+
+.quote{
+    position: relative;
+    top: 1rem;
+    font-size: 2rem;
+}
+
+.by{
+    font-style: italic;
+}
+
+.text-small{
+    font-size: small;
 }
