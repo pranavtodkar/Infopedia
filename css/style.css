@@ -3,9 +3,7 @@ body{
 }
 .nav{
     background-color: black;
-    position: sticky;
-    top: 0;
-    z-index: 1;
+    position: relative;
 }
 
 .logo{
@@ -74,6 +72,10 @@ body{
     font-size: 2rem;
     width: 50%;
     /* background-color: aquamarine; */
+}
+
+.qu{
+    color: #363636;
 }
 
 .btn{
@@ -188,11 +190,15 @@ transform: rotate(-45deg);
     height: 1rem;
 }
 
-#footer{
+.footer{
     text-align: center;
     background-color: #FFE5B4;
     height: 17rem;
     position: relative;
+}
+
+.ht-small{
+    height:13rem;
 }
 
 .last-txt{
