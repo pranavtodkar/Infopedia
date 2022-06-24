@@ -19,3 +19,8 @@ Infopedia is an elibrary where one can read and buy from a place with just a cli
 1. postion - For organise the page structure
 2. hover - used to make button which gives feedback on hover
 3. Font, color, background color and other properties - For making the website visually appealing
+
+### Work management:
+1. Pranav - Landing page design, logo design
+2. Aayush - Category pages design, free ebooks pages design, research articles page design, collected images and content for the website
+3. Abhinav - Category pages design, free ebooks pages design, collected images and content for the website
