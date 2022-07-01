@@ -24,3 +24,7 @@ Infopedia is an elibrary where one can read and buy from a place with just a cli
 1. Pranav - Landing page design, logo design
 2. Aayush - Category pages design, free ebooks pages design, research articles page design, collected images and content for the website
 3. Abhinav - Category pages design, free ebooks pages design, collected images and content for the website
+
+## Sources:
+* Images - [Google Images](https://images.google.com/)
+* Book ratings - [Amazon](https://www.amazon.in/)
