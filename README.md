@@ -1,4 +1,4 @@
-# Infopedia website
+# Infopedia webpage
 ![logo](img/Infopedia.svg)
 
 ### This website is made as part of the CS102 lab coursework under the guidance of Akanksha Mishra ma'am.
